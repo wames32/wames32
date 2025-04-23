@@ -1,0 +1,4 @@
+- Hi, I’m @wames32
+- I’m a 17yo kid that enjoys running LLMs locally and creating cool agents.
+- I’m currently learning python.
+- Fun fact: I play piano
