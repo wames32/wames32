@@ -1,4 +1,2 @@
-- Hi, I’m @wames32
-- I’m a 18yo kid that enjoys running LLMs locally and creating cool agents.
-- I’m currently learning python.
-- Fun fact: I play piano
+Hi, I’m @wames32
+EE student at LeTourneau University
